@@ -59,7 +59,7 @@ to generate meaningful insights that improve crop productivity and soil sustaina
 
 ## 🌐 Access Dashboard
 
-###  [Open Smart Soil Intelligence Dashboard](https://YOUR-RENDER-URL.onrender.com)
+###  [Open Smart Soil Intelligence Dashboard](https://smart-soil-intelligence.onrender.com)
 
 The deployed dashboard provides:
 
