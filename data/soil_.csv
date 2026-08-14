@@ -1,0 +1,73 @@
+moisture,ph,ec,temperature,nitrogen,phosphorus,potassium,recommendation
+18,6.5,1.0,28,75,42,62,Irrigate and maintain balanced fertilizer
+22,6.8,1.2,26,82,48,70,Irrigate and maintain balanced fertilizer
+15,7.0,1.4,31,65,35,55,Irrigate and maintain balanced fertilizer
+20,6.2,0.9,24,90,52,68,Irrigate and maintain balanced fertilizer
+25,6.6,1.1,29,72,44,64,Irrigate and maintain balanced fertilizer
+28,6.9,1.3,27,68,39,59,Irrigate and maintain balanced fertilizer
+16,6.4,1.0,33,78,45,61,Irrigate and maintain balanced fertilizer
+24,6.7,1.2,25,84,50,66,Irrigate and maintain balanced fertilizer
+35,5.4,1.1,27,78,45,60,Apply lime to raise soil pH
+42,5.2,0.9,25,82,48,64,Apply lime to raise soil pH
+38,5.0,1.3,30,70,42,55,Apply lime to raise soil pH
+45,5.6,1.2,28,88,51,69,Apply lime to raise soil pH
+33,5.1,1.0,24,76,44,61,Apply lime to raise soil pH
+40,5.5,1.4,29,65,38,58,Apply lime to raise soil pH
+47,5.3,1.1,26,91,55,72,Apply lime to raise soil pH
+36,5.7,1.2,31,74,43,60,Apply lime to raise soil pH
+44,8.1,1.0,28,75,46,63,Add organic matter to reduce alkalinity
+50,8.3,1.2,27,80,52,66,Add organic matter to reduce alkalinity
+39,8.0,1.4,25,69,40,56,Add organic matter to reduce alkalinity
+46,8.5,1.1,30,86,49,70,Add organic matter to reduce alkalinity
+52,8.2,0.9,29,77,45,62,Add organic matter to reduce alkalinity
+41,8.4,1.3,26,72,41,58,Add organic matter to reduce alkalinity
+48,7.9,1.2,24,89,54,68,Add organic matter to reduce alkalinity
+43,8.6,1.5,31,67,39,57,Add organic matter to reduce alkalinity
+40,6.7,0.9,27,24,45,62,Apply nitrogen-rich fertilizer
+46,6.5,1.1,28,18,52,69,Apply nitrogen-rich fertilizer
+37,6.9,1.2,25,30,41,55,Apply nitrogen-rich fertilizer
+51,6.4,1.0,30,12,48,64,Apply nitrogen-rich fertilizer
+44,7.0,1.3,26,28,36,59,Apply nitrogen-rich fertilizer
+39,6.6,0.8,29,20,43,61,Apply nitrogen-rich fertilizer
+48,6.8,1.1,24,15,50,70,Apply nitrogen-rich fertilizer
+34,6.3,1.2,31,26,39,57,Apply nitrogen-rich fertilizer
+41,6.6,1.0,27,74,12,60,Apply phosphorus fertilizer
+45,6.8,1.1,26,80,18,65,Apply phosphorus fertilizer
+38,6.5,1.3,29,69,10,56,Apply phosphorus fertilizer
+49,6.9,0.9,25,86,22,70,Apply phosphorus fertilizer
+36,6.4,1.2,30,77,15,62,Apply phosphorus fertilizer
+43,7.1,1.0,28,72,20,58,Apply phosphorus fertilizer
+47,6.7,1.4,24,90,11,68,Apply phosphorus fertilizer
+35,6.2,1.1,31,65,17,55,Apply phosphorus fertilizer
+39,6.8,1.0,27,78,44,18,Apply potassium fertilizer
+44,6.5,1.2,29,83,50,24,Apply potassium fertilizer
+36,6.9,0.9,25,70,41,12,Apply potassium fertilizer
+50,6.4,1.1,30,88,53,28,Apply potassium fertilizer
+42,7.0,1.3,26,74,39,20,Apply potassium fertilizer
+37,6.6,1.0,28,68,36,15,Apply potassium fertilizer
+46,6.7,1.2,24,91,55,26,Apply potassium fertilizer
+34,6.3,1.4,31,66,38,14,Apply potassium fertilizer
+65,6.7,1.0,27,82,48,64,Reduce irrigation and improve drainage
+72,6.5,1.2,26,76,44,60,Reduce irrigation and improve drainage
+68,6.9,1.3,28,90,55,70,Reduce irrigation and improve drainage
+75,6.4,1.1,25,70,40,58,Reduce irrigation and improve drainage
+63,7.0,0.9,29,86,52,67,Reduce irrigation and improve drainage
+70,6.6,1.2,30,78,46,61,Reduce irrigation and improve drainage
+66,6.8,1.4,24,73,42,56,Reduce irrigation and improve drainage
+78,6.3,1.1,31,88,50,69,Reduce irrigation and improve drainage
+42,6.7,2.6,28,75,45,62,Flush salts and add organic compost
+48,6.5,3.0,26,80,50,66,Flush salts and add organic compost
+39,6.9,2.8,29,68,40,56,Flush salts and add organic compost
+45,6.4,3.4,25,86,52,70,Flush salts and add organic compost
+51,7.0,2.7,30,77,44,61,Flush salts and add organic compost
+36,6.6,3.2,27,72,39,58,Flush salts and add organic compost
+44,6.8,2.9,24,90,55,68,Flush salts and add organic compost
+40,6.3,3.5,31,65,37,55,Flush salts and add organic compost
+43,6.6,1.1,27,78,45,62,Balanced soil - maintain current fertilizer plan
+47,6.8,1.2,26,84,50,68,Balanced soil - maintain current fertilizer plan
+39,6.5,0.9,28,72,42,58,Balanced soil - maintain current fertilizer plan
+52,7.0,1.3,29,88,55,70,Balanced soil - maintain current fertilizer plan
+35,6.4,1.0,24,66,38,54,Balanced soil - maintain current fertilizer plan
+49,6.9,1.4,30,92,58,72,Balanced soil - maintain current fertilizer plan
+41,6.7,1.1,25,74,44,60,Balanced soil - maintain current fertilizer plan
+55,6.6,1.2,31,80,48,65,Balanced soil - maintain current fertilizer plan
