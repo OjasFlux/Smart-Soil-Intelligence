@@ -143,7 +143,7 @@ Analyzes:
 #  System Architecture
 
 ```text
-                    Smart Soil Intelligence System
+        Smart Soil Intelligence System
 
  ┌───────────────────────────────────────────────────┐
  │                Farmer/User Input                  │
