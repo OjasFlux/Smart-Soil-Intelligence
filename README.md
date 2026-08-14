@@ -426,7 +426,7 @@ gunicorn app:app
 
 ### Live Dashboard
 
-👉 https://YOUR-RENDER-URL.onrender.com
+👉(https://smart-soil-intelligence.onrender.com)
 
 ---
 
@@ -474,15 +474,12 @@ gunicorn app:app
 
 ## Dashboard Home
 
-Add screenshot:
-
-```text
-screenshots/dashboard-home.png
-```
+<p align="center">
+  <img src="screenshots/dashboard-home.png" alt="Block Diagram" width="700">
+</p>
 
 ## Soil Analysis Results
 
-Add screenshot:
 
 ```text
 screenshots/soil-analysis-result.png
