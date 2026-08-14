@@ -1,5 +1,3 @@
-#  Smart Soil Intelligence System
-
 <div align="center">
 
 # Smart Soil Intelligence System
