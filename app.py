@@ -1,4 +1,4 @@
-﻿import json
+import json
 import os
 import random
 from urllib.error import HTTPError, URLError
