@@ -196,8 +196,11 @@ p {
 }
 
 .primary-button {
-  padding: 16px 22px;
-  font-weight: 800;
+    width: fit-content;
+    padding: 12px 24px;
+    min-height: auto;
+    display: inline-block;
+    border-radius: 12px;
 }
 
 .secondary-button {
