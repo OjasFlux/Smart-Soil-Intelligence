@@ -518,7 +518,7 @@ Suitable for:
 
 # 👨‍💻 Author
 
-[SUJAN](github.com/OjasFlux)
+[SUJAN](https://github.com/OjasFlux)
 
 Electronics & Communication Engineering (ECE)
 
