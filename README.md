@@ -563,6 +563,6 @@ Copyright (c) 2026
 
 ### Intelligent Soil Analytics for Smarter Farming
 
-** Live Dashboard:** https://YOUR-RENDER-URL.onrender.com
-
+** Live Dashboard:**
+https://smart-soil-intelligence.onrender.com
 </div>
