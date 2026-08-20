@@ -481,9 +481,9 @@ gunicorn app:app
 ## Soil Analysis Results
 
 
-```text
-screenshots/soil-analysis-result.png
-```
+<p align="center">
+  <img src="screenshots/soil-analysis-result.png" alt="Block Diagram" width="700">
+</p>
 
 ## Crop Recommendation
 
