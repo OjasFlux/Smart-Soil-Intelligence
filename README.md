@@ -340,23 +340,23 @@ Dashboard Output
 
 ---
 
-# 📈 System Output
+# System Output
 
 The platform generates:
 
-✅ Soil Health Status
+* [x] Soil Health Status
 
-✅ Soil Fertility Assessment
+* [x] Soil Fertility Assessment
 
-✅ Nutrient Analysis
+* [x] Nutrient Analysis
 
-✅ Crop Recommendation
+* [x] Crop Recommendation
 
-✅ Fertilizer Suggestion
+* [x] Fertilizer Suggestion
 
-✅ Soil Improvement Guidance
+* [x] Soil Improvement Guidance
 
-✅ Precision Farming Insights
+* [x] Precision Farming Insights
 
 ---
 
