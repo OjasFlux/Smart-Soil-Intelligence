@@ -11,9 +11,8 @@
 ![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
 ###  Transforming Soil Data into Intelligent Farming Decisions
-
 **Live Application:**  
-https://smart-soil-intelligence.onrender.com
+## [⮞ Smart-Soil-Intelligence ⮜](https://smart-soil-intelligence.onrender.com)
 
 </div>
 
