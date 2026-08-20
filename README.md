@@ -13,13 +13,13 @@
 ###  Transforming Soil Data into Intelligent Farming Decisions
 
 **Live Application:**  
-👉 https://smart-soil-intelligence.onrender.com
+https://smart-soil-intelligence.onrender.com
 
 </div>
 
 ---
 
-# 📋 Table of Contents
+# Table of Contents
 
 - [Overview](#-overview)
 - [Live Dashboard](#-live-dashboard)
@@ -38,7 +38,7 @@
 
 ---
 
-# 📖 Overview
+# Overview
 
 The **Smart Soil Intelligence System** is an AI-driven precision agriculture platform developed to help farmers, agricultural researchers, and decision-makers analyze soil conditions and obtain actionable farming recommendations.
 
@@ -57,7 +57,7 @@ to generate meaningful insights that improve crop productivity and soil sustaina
 
 #  Live Dashboard
 
-## 🌐 Access Dashboard
+## Access Dashboard
 
 ###  [Open Smart Soil Intelligence Dashboard](https://smart-soil-intelligence.onrender.com)
 
