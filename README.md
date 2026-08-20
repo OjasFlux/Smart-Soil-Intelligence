@@ -4,7 +4,7 @@
 
 ### AI-Powered Precision Agriculture & Soil Analytics Platform
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Application-success?style=for-the-badge)](https://smart-soil-intelligence.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/_Live_Demo-Visit_Application-success?style=for-the-badge)](https://smart-soil-intelligence.onrender.com/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-Web_App-green?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-orange?style=for-the-badge)
@@ -131,7 +131,7 @@ Analyzes:
 - Yield optimization suggestions
 - Sustainable farming guidance
 
-## 📊 Interactive Dashboard
+## Interactive Dashboard
 
 - Modern responsive interface
 - Real-time results
@@ -231,7 +231,7 @@ Provides:
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ## Frontend
 
@@ -293,7 +293,7 @@ smart-soil-intelligence/
 
 ---
 
-# 🤖 Machine Learning Pipeline
+# Machine Learning Pipeline
 
 ```text
 Dataset Collection
@@ -325,7 +325,7 @@ Dashboard Output
 
 ---
 
-# 📊 Input Parameters
+# Input Parameters
 
 | Parameter | Description |
 |------------|-------------|
@@ -564,6 +564,6 @@ Copyright (c) 2026
 
 ### Intelligent Soil Analytics for Smarter Farming
 
-**🚀 Live Dashboard:** https://YOUR-RENDER-URL.onrender.com
+** Live Dashboard:** https://YOUR-RENDER-URL.onrender.com
 
 </div>
