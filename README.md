@@ -489,9 +489,9 @@ gunicorn app:app
 
 Add screenshot:
 
-```text
-screenshots/crop-recommendation.png
-```
+<p align="center">
+  <img src="screenshots/crop-recommendation.png" alt="Block Diagram" width="700">
+</p>
 
 ---
 
