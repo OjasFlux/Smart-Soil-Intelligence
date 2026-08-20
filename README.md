@@ -518,7 +518,7 @@ Suitable for:
 
 # 👨‍💻 Author
 
-## Kali
+## [@SUJAN]
 
 Electronics & Communication Engineering (ECE)
 
