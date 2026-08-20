@@ -455,7 +455,7 @@ gunicorn app:app
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 - ESP32 Integration
 - RS485 Soil Sensor Support
@@ -475,14 +475,14 @@ gunicorn app:app
 ## Dashboard Home
 
 <p align="center">
-  <img src="screenshots/dashboard-home.png" alt="Block Diagram" width="700">
+  <img src="screenshots/dashboard-home.png" alt="Block Diagram" width="1000">
 </p>
 
 ## Soil Analysis Results
 
 
 <p align="center">
-  <img src="screenshots/soil-analysis-result.png" alt="Block Diagram" width="700">
+  <img src="screenshots/soil-analysis-result.png" alt="Block Diagram" width="1000">
 </p>
 
 ## Crop Recommendation
@@ -490,12 +490,12 @@ gunicorn app:app
 Add screenshot:
 
 <p align="center">
-  <img src="screenshots/crop-recommendation.png" alt="Block Diagram" width="700">
+  <img src="screenshots/crop-recommendation.png" alt="Block Diagram" width="1000">
 </p>
 
 ---
 
-# 🎓 Academic Relevance
+# Academic Relevance
 
 This project covers:
 
@@ -536,7 +536,7 @@ https://github.com/OjasFlux
 
 ---
 
-# ⭐ Support the Project
+# Support the Project
 
 If you find this project useful:
 
