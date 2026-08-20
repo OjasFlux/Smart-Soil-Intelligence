@@ -131,7 +131,7 @@ Analyzes:
 - Yield optimization suggestions
 - Sustainable farming guidance
 
-## Interactive Dashboard
+## 📊 Interactive Dashboard
 
 - Modern responsive interface
 - Real-time results
