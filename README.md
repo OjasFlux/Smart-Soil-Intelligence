@@ -517,8 +517,8 @@ Suitable for:
 
 # 👨‍💻 Author
 
-[SUJAN](https://github.com/OjasFlux)
-
+[SUJAN G S](https://github.com/OjasFlux)
+[PRAJWAL B U](https://github.com/prajwalchitte46)
 Electronics & Communication Engineering (ECE)
 
 ### Areas of Interest
