@@ -518,6 +518,7 @@ Suitable for:
 # 👨‍💻 Author
 
 [SUJAN G S](https://github.com/OjasFlux)
+
 Electronics & Communication Engineering (ECE)
 
 ### Areas of Interest
@@ -535,6 +536,7 @@ https://github.com/OjasFlux
 ---
 # SOFTWARE DEVELOPER 
 [PRAJWAL B U](https://github.com/prajwalchitte46)
+
 Electronics & Communication Engineering (ECE)
 
 ### Areas of Interest
