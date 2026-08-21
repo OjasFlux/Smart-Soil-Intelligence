@@ -518,7 +518,6 @@ Suitable for:
 # 👨‍💻 Author
 
 [SUJAN G S](https://github.com/OjasFlux)
-[PRAJWAL B U](https://github.com/prajwalchitte46)
 Electronics & Communication Engineering (ECE)
 
 ### Areas of Interest
@@ -532,6 +531,23 @@ Electronics & Communication Engineering (ECE)
 ### GitHub
 
 https://github.com/OjasFlux
+
+---
+# SOFTWARE DEVELOPER 
+[PRAJWAL B U](https://github.com/prajwalchitte46)
+Electronics & Communication Engineering (ECE)
+
+### Areas of Interest
+
+- Embedded Systems
+- Artificial Intelligence
+- Machine Learning
+- IoT Systems
+- Precision Agriculture
+
+### GitHub
+
+https://github.com/prajwalchitte46
 
 ---
 
