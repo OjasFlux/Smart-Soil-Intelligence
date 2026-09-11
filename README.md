@@ -1,6 +1,6 @@
 <div align="center">
 
-# Smart Soil Intelligence System
+# Smart Soil Intelligence System 
 
 ### AI-Powered Precision Agriculture & Soil Analytics Platform
 
